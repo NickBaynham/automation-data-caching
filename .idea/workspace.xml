@@ -2,10 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="52ed8bc2-7710-4e61-adcf-e89c1855222b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/autodiscoverheal/locators/SeleniumLocatorUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/framework/utils/DriverManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/unit/TestCachedLocators.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/locators.dat" beforeDir="false" afterPath="$PROJECT_DIR$/locators.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/locators.loc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/autodiscoverheal/cache/Cache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/autodiscoverheal/cache/Cache.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/autodiscoverheal/cache/CacheManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/autodiscoverheal/cache/CacheManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/unit/TestCacheManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/unit/TestCacheManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/scripts/TestNavigation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/scripts/TestNavigation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/autodiscoverheal/cache/Cache.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/autodiscoverheal/cache/Cache.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/autodiscoverheal/cache/CacheManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/autodiscoverheal/cache/CacheManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/scripts/TestNavigation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/scripts/TestNavigation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/unit/TestCacheManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/unit/TestCacheManager.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,51 +63,52 @@
       <recent name="C:\Users\nbaynham\Documents\auto-discover-heal\resources\webtargets" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.TestCacheManager.verifyGetInstanceOfCacheFromCacheManager">
-    <configuration name="TestCache" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.TestCachedLocators.verifySeleniumTest">
+    <configuration name="TestCachedLocators.verifyCachedLocatorsSeleniumTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="auto-discover-heal" />
       <option name="PACKAGE_NAME" value="unit" />
-      <option name="MAIN_CLASS_NAME" value="unit.TestCache" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestCacheManager.verifyGetInstanceOfCacheFromCacheManager" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="auto-discover-heal" />
-      <option name="PACKAGE_NAME" value="unit" />
-      <option name="MAIN_CLASS_NAME" value="unit.TestCacheManager" />
-      <option name="METHOD_NAME" value="verifyGetInstanceOfCacheFromCacheManager" />
+      <option name="MAIN_CLASS_NAME" value="unit.TestCachedLocators" />
+      <option name="METHOD_NAME" value="verifyCachedLocatorsSeleniumTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestCache.verifyInvalidKey" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestCachedLocators.verifyCanGetLocators" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="auto-discover-heal" />
       <option name="PACKAGE_NAME" value="unit" />
-      <option name="MAIN_CLASS_NAME" value="unit.TestCache" />
-      <option name="METHOD_NAME" value="verifyInvalidKey" />
+      <option name="MAIN_CLASS_NAME" value="unit.TestCachedLocators" />
+      <option name="METHOD_NAME" value="verifyCanGetLocators" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestCache.verifySerialize" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestCachedLocators.verifySeleniumTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="auto-discover-heal" />
       <option name="PACKAGE_NAME" value="unit" />
-      <option name="MAIN_CLASS_NAME" value="unit.TestCache" />
-      <option name="METHOD_NAME" value="verifySerialize" />
+      <option name="MAIN_CLASS_NAME" value="unit.TestCachedLocators" />
+      <option name="METHOD_NAME" value="verifySeleniumTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestCache.verifySerializeDeserialize" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestCachedLocators.verifyStoringLocators" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="auto-discover-heal" />
       <option name="PACKAGE_NAME" value="unit" />
-      <option name="MAIN_CLASS_NAME" value="unit.TestCache" />
-      <option name="METHOD_NAME" value="verifySerializeDeserialize" />
+      <option name="MAIN_CLASS_NAME" value="unit.TestCachedLocators" />
+      <option name="METHOD_NAME" value="verifyStoringLocators" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestNavigation.testNavigation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="auto-discover-heal" />
+      <option name="PACKAGE_NAME" value="scripts" />
+      <option name="MAIN_CLASS_NAME" value="scripts.TestNavigation" />
+      <option name="METHOD_NAME" value="testNavigation" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -106,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TestCacheManager.verifyGetInstanceOfCacheFromCacheManager" />
-        <item itemvalue="JUnit.TestCache" />
-        <item itemvalue="JUnit.TestCache.verifySerializeDeserialize" />
-        <item itemvalue="JUnit.TestCache.verifySerialize" />
-        <item itemvalue="JUnit.TestCache.verifyInvalidKey" />
+        <item itemvalue="JUnit.TestCachedLocators.verifySeleniumTest" />
+        <item itemvalue="JUnit.TestCachedLocators.verifyStoringLocators" />
+        <item itemvalue="JUnit.TestCachedLocators.verifyCachedLocatorsSeleniumTest" />
+        <item itemvalue="JUnit.TestCachedLocators.verifyCanGetLocators" />
+        <item itemvalue="JUnit.TestNavigation.testNavigation" />
       </list>
     </recent_temporary>
   </component>
@@ -141,22 +151,38 @@
       <screen x="3840" y="1064" width="1920" height="1040" />
     </state>
     <state x="4554" y="1394" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/3840.1064.1920.1040@3840.1064.1920.1040" timestamp="1578242651570" />
-    <state width="1877" height="274" key="GridCell.Tab.0.bottom" timestamp="1578250740212">
+    <state width="1877" height="274" key="GridCell.Tab.0.bottom" timestamp="1578255413951">
       <screen x="3840" y="1064" width="1920" height="1040" />
     </state>
-    <state width="1877" height="274" key="GridCell.Tab.0.bottom/0.0.1536.824/3840.1064.1920.1040@3840.1064.1920.1040" timestamp="1578250740212" />
-    <state width="1877" height="274" key="GridCell.Tab.0.center" timestamp="1578250740212">
+    <state width="1877" height="274" key="GridCell.Tab.0.bottom/0.0.1536.824/3840.1064.1920.1040@3840.1064.1920.1040" timestamp="1578255413951" />
+    <state width="1877" height="274" key="GridCell.Tab.0.center" timestamp="1578255413950">
       <screen x="3840" y="1064" width="1920" height="1040" />
     </state>
-    <state width="1877" height="274" key="GridCell.Tab.0.center/0.0.1536.824/3840.1064.1920.1040@3840.1064.1920.1040" timestamp="1578250740212" />
-    <state width="1877" height="274" key="GridCell.Tab.0.left" timestamp="1578250740212">
+    <state width="1877" height="274" key="GridCell.Tab.0.center/0.0.1536.824/3840.1064.1920.1040@3840.1064.1920.1040" timestamp="1578255413950" />
+    <state width="1877" height="274" key="GridCell.Tab.0.left" timestamp="1578255413950">
       <screen x="3840" y="1064" width="1920" height="1040" />
     </state>
-    <state width="1877" height="274" key="GridCell.Tab.0.left/0.0.1536.824/3840.1064.1920.1040@3840.1064.1920.1040" timestamp="1578250740212" />
-    <state width="1877" height="274" key="GridCell.Tab.0.right" timestamp="1578250740212">
+    <state width="1877" height="274" key="GridCell.Tab.0.left/0.0.1536.824/3840.1064.1920.1040@3840.1064.1920.1040" timestamp="1578255413950" />
+    <state width="1877" height="274" key="GridCell.Tab.0.right" timestamp="1578255413950">
       <screen x="3840" y="1064" width="1920" height="1040" />
     </state>
-    <state width="1877" height="274" key="GridCell.Tab.0.right/0.0.1536.824/3840.1064.1920.1040@3840.1064.1920.1040" timestamp="1578250740212" />
+    <state width="1877" height="274" key="GridCell.Tab.0.right/0.0.1536.824/3840.1064.1920.1040@3840.1064.1920.1040" timestamp="1578255413950" />
+    <state width="1877" height="338" key="GridCell.Tab.1.bottom" timestamp="1578254957895">
+      <screen x="3840" y="1064" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="338" key="GridCell.Tab.1.bottom/0.0.1536.824/3840.1064.1920.1040@3840.1064.1920.1040" timestamp="1578254957895" />
+    <state width="1877" height="338" key="GridCell.Tab.1.center" timestamp="1578254957895">
+      <screen x="3840" y="1064" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="338" key="GridCell.Tab.1.center/0.0.1536.824/3840.1064.1920.1040@3840.1064.1920.1040" timestamp="1578254957895" />
+    <state width="1877" height="338" key="GridCell.Tab.1.left" timestamp="1578254957895">
+      <screen x="3840" y="1064" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="338" key="GridCell.Tab.1.left/0.0.1536.824/3840.1064.1920.1040@3840.1064.1920.1040" timestamp="1578254957895" />
+    <state width="1877" height="338" key="GridCell.Tab.1.right" timestamp="1578254957895">
+      <screen x="3840" y="1064" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="338" key="GridCell.Tab.1.right/0.0.1536.824/3840.1064.1920.1040@3840.1064.1920.1040" timestamp="1578254957895" />
     <state x="4475" y="1388" key="git4idea.merge.GitPullDialog" timestamp="1578243998858">
       <screen x="3840" y="1064" width="1920" height="1040" />
     </state>
@@ -165,5 +191,16 @@
       <screen x="3840" y="1064" width="1920" height="1040" />
     </state>
     <state x="4456" y="772" key="run.anything.popup/0.0.1536.824/3840.1064.1920.1040@3840.1064.1920.1040" timestamp="1578233755801" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/autodiscoverheal/locators/SeleniumLocatorUtils.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

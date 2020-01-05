@@ -14,6 +14,11 @@ public class Cache {
     public Cache(String id, String fileType) {
         this.id = id;
         this.fileType = fileType;
+        try {
+            deSerialize();
+        } catch (NoCacheException e) {
+            serializeCache();
+        }
     }
 
     public Cache(String id) {
