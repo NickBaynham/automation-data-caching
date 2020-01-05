@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="52ed8bc2-7710-4e61-adcf-e89c1855222b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/resources/webtargets" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Vye3QJ78URPswu5tC7U3vRDWVT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="autodiscoverheal.cache" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\nbaynham\Documents\auto-discover-heal" />
+      <recent name="C:\Users\nbaynham\Documents\auto-discover-heal\resources\webtargets" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TestCache">
+    <configuration name="TestCache" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="auto-discover-heal" />
+      <option name="PACKAGE_NAME" value="unit" />
+      <option name="MAIN_CLASS_NAME" value="unit.TestCache" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCache.deSerializeCacheWhenNotSerialized" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="auto-discover-heal" />
+      <option name="PACKAGE_NAME" value="unit" />
+      <option name="MAIN_CLASS_NAME" value="unit.TestCache" />
+      <option name="METHOD_NAME" value="deSerializeCacheWhenNotSerialized" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCache.verifyInvalidKey" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="auto-discover-heal" />
+      <option name="PACKAGE_NAME" value="unit" />
+      <option name="MAIN_CLASS_NAME" value="unit.TestCache" />
+      <option name="METHOD_NAME" value="verifyInvalidKey" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCache.verifySerialize" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="auto-discover-heal" />
+      <option name="PACKAGE_NAME" value="unit" />
+      <option name="MAIN_CLASS_NAME" value="unit.TestCache" />
+      <option name="METHOD_NAME" value="verifySerialize" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCache.verifySerializeDeserialize" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="auto-discover-heal" />
+      <option name="PACKAGE_NAME" value="unit" />
+      <option name="MAIN_CLASS_NAME" value="unit.TestCache" />
+      <option name="METHOD_NAME" value="verifySerializeDeserialize" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestCache" />
+        <item itemvalue="JUnit.TestCache.verifySerializeDeserialize" />
+        <item itemvalue="JUnit.TestCache.verifySerialize" />
+        <item itemvalue="JUnit.TestCache.verifyInvalidKey" />
+        <item itemvalue="JUnit.TestCache.deSerializeCacheWhenNotSerialized" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52ed8bc2-7710-4e61-adcf-e89c1855222b" name="Default Changelist" comment="" />
+      <created>1578229562406</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578229562406</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="4554" y="1394" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1578242651570">
+      <screen x="3840" y="1064" width="1920" height="1040" />
+    </state>
+    <state x="4554" y="1394" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/3840.1064.1920.1040@3840.1064.1920.1040" timestamp="1578242651570" />
+    <state width="1877" height="274" key="GridCell.Tab.0.bottom" timestamp="1578243673423">
+      <screen x="3840" y="1064" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="274" key="GridCell.Tab.0.bottom/0.0.1536.824/3840.1064.1920.1040@3840.1064.1920.1040" timestamp="1578243673423" />
+    <state width="1877" height="274" key="GridCell.Tab.0.center" timestamp="1578243673423">
+      <screen x="3840" y="1064" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="274" key="GridCell.Tab.0.center/0.0.1536.824/3840.1064.1920.1040@3840.1064.1920.1040" timestamp="1578243673423" />
+    <state width="1877" height="274" key="GridCell.Tab.0.left" timestamp="1578243673423">
+      <screen x="3840" y="1064" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="274" key="GridCell.Tab.0.left/0.0.1536.824/3840.1064.1920.1040@3840.1064.1920.1040" timestamp="1578243673423" />
+    <state width="1877" height="274" key="GridCell.Tab.0.right" timestamp="1578243673423">
+      <screen x="3840" y="1064" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="274" key="GridCell.Tab.0.right/0.0.1536.824/3840.1064.1920.1040@3840.1064.1920.1040" timestamp="1578243673423" />
+    <state x="4456" y="772" key="run.anything.popup" timestamp="1578233755801">
+      <screen x="3840" y="1064" width="1920" height="1040" />
+    </state>
+    <state x="4456" y="772" key="run.anything.popup/0.0.1536.824/3840.1064.1920.1040@3840.1064.1920.1040" timestamp="1578233755801" />
+  </component>
+</project>
